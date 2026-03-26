@@ -1,0 +1,6 @@
+name: mirna-probe-designer
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - streamlit
